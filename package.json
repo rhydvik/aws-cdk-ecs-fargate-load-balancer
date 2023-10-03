@@ -2,7 +2,7 @@
   "name": "aws-cdk-ecs-fargate-load-balancer",
   "version": "0.1.0",
   "bin": {
-    "aws-cdk-ecs-fargate-load-balancer": "bin/aws-cdk-ecs-fargate-load-balancer.js"
+    "main": "bin/main.js"
   },
   "scripts": {
     "build": "tsc",
